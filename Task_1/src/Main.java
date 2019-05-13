@@ -1,8 +1,6 @@
 package src;
 
-import Additionals.EducationalInstitutional;
-import Additionals.School;
-import Additionals.University;
+import Additionals.*;
 
 import java.util.Arrays;
 import java.util.Scanner;
